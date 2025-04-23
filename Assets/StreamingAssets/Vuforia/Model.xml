@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Engine" size="10.000000 5.671429" />
+    <ImageTarget name="butterflyvalve" size="10.000000 8.259109" />
+  </Tracking>
+</QCARConfig>
